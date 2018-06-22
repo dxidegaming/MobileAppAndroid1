@@ -1,2 +1,2 @@
 -This Application was made using Android Studio v3.1
--The application calculates the right price of a concert for the user's convenience.
+-The application calculates the right price of a concert based on the user's choice of band / artist.
