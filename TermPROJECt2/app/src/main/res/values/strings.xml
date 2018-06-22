@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TermPROJECT</string>
+    <string name="iG">  Imagine Dragons</string>
+    <string name="ig1">Dam Reynolds</string>
+    <string name="ig2">Wayne Sermon</string>
+    <string name="ig3">Ben McKee</string>
+    <string name="ig4">Daniel Platzman</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_the_beatles">theBeatles</string>
+    <string name="theBeatles">The Beatles</string>
+    <string name="listmem">The members:</string>
+    <string name="beatle1">John Lennon</string>
+    <string name="beatle2">Paul McCartney</string>
+    <string name="beatle3">Ringo Starr</string>
+    <string name="beatle4">George Harrison</string>
+    <string name="cbcb">Auto-replay</string>
+    <string name="Ticketss">Number of tickets to buy</string>
+    <string name="VIP">VIP tickets (after party access)</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="coldPlay">Coldplay</string>
+    <string name="cp1">Chris Martin</string>
+    <string name="cp2">Jonny Buckland</string>
+    <string name="cp3">Guy Berryman</string>
+    <string name="cp4">Will Champion</string>
+    <string name="title_activity_the_beatles_info">theBeatlesInfo</string>
+    <string name="title_activity_cold_play">coldPlay</string>
+    <string name="title_activity_cold_play_info">coldPlayInfo</string>
+    <string name="title_activity_imagine_dragons">imagineDragons</string>
+    <string name="title_activity_imagine_dragons_info">imagineDragonsInfo</string>
+</resources>
